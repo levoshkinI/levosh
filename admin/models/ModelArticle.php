@@ -1,5 +1,5 @@
 <?php
-	class Article implements Model
+	class ModelArticle implements Model
 	{
 		public function __construct($pdo)
         {
