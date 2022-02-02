@@ -1,5 +1,5 @@
 <?php
-	class Menu
+	class ModelMenu
 	{
         public function __construct($pdo)
         {
